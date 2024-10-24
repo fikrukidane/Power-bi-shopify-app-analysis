@@ -10,6 +10,8 @@ Analyze data from the Shopify platform to identify key factors that contribute t
 - Apps with frequent updates and better customer support tend to have higher ratings and better overall performance.
 - Certain app categories, such as marketing tools and store management, show higher adoption rates among Shopify merchants.
 - Visualizations provided insights into the relationship between app performance and customer feedback.
+![image](https://github.com/user-attachments/assets/cf7bbf85-8b15-423c-9670-a5b2705bb71a)
+![image](https://github.com/user-attachments/assets/9cd4c1e5-7e3d-4863-a55d-ac43d926b5e9)
 
 ## Technology Stack:
 - **Tools Used**: Power BI, Excel
